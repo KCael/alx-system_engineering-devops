@@ -1,11 +1,2 @@
 #!/bin/bash
-touch Applications
-  echo "Applications" >> "Applications"
-touch Documents
-  echo "Documents" >> "Documents"
-touch Dropbox Movies Pictures
-  echo "Dropbox Movies Pictures" >> "Dropbox Movies Pictures"
-touch Desktop Downloads
-  echo "Desktop Downloads" >> "Desktop Downloads"
-touch Library Music Public
-  echo "Library Music Public" >> "Library Music Public"
+echo "Applications Documents Dropbox Movies Pictures Desktop Downloads Library Music Public"
