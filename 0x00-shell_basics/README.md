@@ -1,1 +1,1 @@
-Shell basics script
+My current directory sript
