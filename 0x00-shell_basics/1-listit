@@ -1,6 +1,11 @@
 #!/bin/bash
-echo "Applications"
-echo "Documents"
-echo "Dropbox Movies Pictures"
-echo "Desktop Downloads"
-echo "Library Music Public" 
+touch Applications
+  echo "Applications" >> "Applications"
+touch Documents
+  echo "Documents" >> "Documents"
+touch Dropbox Movies Pictures
+  echo "Dropbox Movies Pictures" >> "Dropbox Movies Pictures"
+touch Desktop Downloads
+  echo "Desktop Downloads" >> "Desktop Downloads"
+touch Library Music Public
+  echo "Library Music Public" >> "Library Music Public"
